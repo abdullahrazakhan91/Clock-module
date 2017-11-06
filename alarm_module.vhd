@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company:  Project Lab IC Design
--- Engineer: Haider Sultan
+-- Engineer: Abdullah Raza khan
 -- 
 -- Create Date:    14:02:35 02/01/2017 
 -- Design Name: 
